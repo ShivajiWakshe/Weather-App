@@ -31,7 +31,7 @@ This project is part of my **30-Day Web Development Challenge (Day 5)**.
 ## 📸 Preview
 
 🎥 **Project Demo Video:**  
-👉 https://www.youtube.com/(https://youtu.be/imj1pgVs6Tk)e
+👉 [(https://youtu.be/imj1pgVs6Tk)e](https://youtu.be/imj1pgVs6Tk?si=0odiRj9a8rE4v96s)
 
 ---
 
